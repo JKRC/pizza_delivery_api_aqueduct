@@ -248,6 +248,12 @@
       "languageVersion": "2.7"
     },
     {
+      "name": "json_serializable",
+      "rootUri": "file:///C:/Users/Johnk/AppData/Local/Pub/Cache/hosted/pub.dartlang.org/pub_cache-0.2.3/hosted/pub.dev/json_serializable-3.5.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.7"
+    },
+    {
       "name": "logging",
       "rootUri": "file:///C:/Users/Johnk/AppData/Local/Pub/Cache/hosted/pub.dartlang.org/pub_cache-0.2.3/hosted/pub.dev/logging-0.11.4",
       "packageUri": "lib/",
@@ -518,7 +524,7 @@
       "languageVersion": "2.1"
     }
   ],
-  "generated": "2020-09-28T20:45:30.687448Z",
+  "generated": "2020-09-30T00:55:11.428836Z",
   "generator": "pub",
   "generatorVersion": "2.9.0"
 }
